@@ -1,7 +1,7 @@
 # PROGRAM-FOR-ATM
 password=4321
 balance=10000
-print('****WELCOME TO OUR ATM $ERVICE$****')
+print('****WELCOME TO OUR ATM SERVICE****')
 pin=int(input('ENTER YOUR ATM 4 DIGIT PIN NUMBER:'))
 while(pin!=password):
 	print('///invalid password try again///')
